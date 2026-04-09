@@ -19,7 +19,8 @@ AI-powered Markdown → PPTX generator using Slide Master layouts, charts, and i
 
 ## 🖥️ UI Preview
 
-![SlideForge UI](docs/ui.png)
+<img width="1914" height="1140" alt="image" src="https://github.com/user-attachments/assets/8bbacfde-2277-4267-a984-5b614148ae77" />
+
 
 ---
 
