@@ -1,0 +1,7 @@
+python-pptx
+markdown
+beautifulsoup4
+lxml
+matplotlib
+openai
+gradio
