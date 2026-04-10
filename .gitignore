@@ -1,7 +1,7 @@
+generated/
+output/
+*.pptx
 __pycache__/
 *.pyc
 .env
-*.pptx
-output/
-tmp/
-*.log
+*.zip
